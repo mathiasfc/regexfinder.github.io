@@ -1,0 +1,5 @@
+{
+ "regex":"regex",
+ "description":"description",
+ "alternatives":["regex1","regex2"]
+}
